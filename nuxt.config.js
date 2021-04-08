@@ -125,8 +125,8 @@ export default {
         json: {
           '@context': 'https://schema.org',
           '@type': 'Organization',
-          url: 'http://tuyenbaoveatp.ga',
-          logo: 'http://tuyenbaoveatp.ga/images/logo.png',
+          url: 'https://vieclambaovedenhat.ga',
+          logo: 'https://vieclambaovedenhat.ga/images/logo.png',
         },
       },
       {
@@ -162,7 +162,7 @@ export default {
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: ['@nuxtjs/sitemap'],
   sitemap: {
-    hostname: 'https://tuyenbaoveatp.ga',
+    hostname: 'https://vieclambaovedenhat.ga',
     defaults: {
       changefreq: 'daily',
       priority: 1,
@@ -226,7 +226,7 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-    publicPath: 'https://tuyenbaoveatp.ga',
+    publicPath: 'https://vieclambaovedenhat.ga',
   },
   generate: {
     dir: 'docs',

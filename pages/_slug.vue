@@ -25,7 +25,7 @@
                     <ul>
                       <li>
                         <a
-                          :href="`https://tuyenbaoveatp.ga${$route.fullPath}/#ung_tuyen`"
+                          :href="`https://vieclambaovedenhat.ga${$route.fullPath}/#ung_tuyen`"
                           class="btn btn-default"
                           >Ứng tuyển ngay</a
                         >
@@ -48,14 +48,14 @@
                         <div
                           class="fb-share-button"
                           :data-href="
-                            'https://tuyenbaoveatp.ga' + $route.fullPath + '/'
+                            'https://vieclambaovedenhat.ga' + $route.fullPath + '/'
                           "
                           data-layout="button_count"
                           data-size="small"
                         >
                           <a
                             target="_blank"
-                            :href="`https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Ftuyenbaoveatp.ga${encodeURI(
+                            :href="`https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fvieclambaovedenhat.ga${encodeURI(
                               $route.fullPath + '/'
                             )}&amp;src=sdkpreparse`"
                             class="fb-xfbml-parse-ignore"
@@ -84,7 +84,7 @@
                   <div
                     class="fb-like"
                     :data-href="
-                      'https://tuyenbaoveatp.ga' + $route.fullPath + '/'
+                      'https://vieclambaovedenhat.ga' + $route.fullPath + '/'
                     "
                     data-width=""
                     data-layout="button"
@@ -96,7 +96,7 @@
                   <div
                     class="fb-save"
                     :data-uri="
-                      'https://tuyenbaoveatp.ga' + $route.fullPath + '/'
+                      'https://vieclambaovedenhat.ga' + $route.fullPath + '/'
                     "
                     data-size="large"
                   ></div>
@@ -173,7 +173,7 @@
           ></div>
           <div
             class="fb-comments"
-            :data-href="'https://tuyenbaoveatp.ga' + $route.fullPath + '/'"
+            :data-href="'https://vieclambaovedenhat.ga' + $route.fullPath + '/'"
             data-width=""
             data-numposts="5"
           ></div>
@@ -231,8 +231,8 @@ export default {
             hiringOrganization: {
               '@type': 'Organization',
               name: 'Công Ty TNHH Dịch Vụ Bảo Vệ An Thịnh Phát',
-              sameAs: 'https://tuyenbaoveatp.ga',
-              logo: 'https://tuyenbaoveatp.ga/images/logo.png',
+              sameAs: 'https://vieclambaovedenhat.ga',
+              logo: 'https://vieclambaovedenhat.ga/images/logo.png',
             },
             jobLocation: {
               '@type': 'Place',
