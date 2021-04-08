@@ -8,7 +8,7 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'tuyenbaoveatp.io',
+    title: 'Việc làm bảo vệ Công ty Đệ Nhất',
     htmlAttrs: {
       lang: 'vi',
     },

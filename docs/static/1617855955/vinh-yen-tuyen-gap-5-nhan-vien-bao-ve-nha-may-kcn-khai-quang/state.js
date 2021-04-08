@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"https:\u002F\u002Ftuyenbaoveatp.ga\u002Fstatic\u002F1617855955",layout:"default",error:null,serverRendered:true,routePath:"\u002Fvinh-yen-tuyen-gap-5-nhan-vien-bao-ve-nha-may-kcn-khai-quang",config:{_app:{basePath:a,assetsPath:a,cdnURL:"https:\u002F\u002Ftuyenbaoveatp.ga\u002F"}}}}("\u002F"));
