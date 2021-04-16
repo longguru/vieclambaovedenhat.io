@@ -48,7 +48,9 @@
                         <div
                           class="fb-share-button"
                           :data-href="
-                            'https://vieclambaovedenhat.ga' + $route.fullPath + '/'
+                            'https://vieclambaovedenhat.ga' +
+                            $route.fullPath +
+                            '/'
                           "
                           data-layout="button_count"
                           data-size="small"
@@ -230,7 +232,7 @@ export default {
             employmentType: 'CONTRACTOR',
             hiringOrganization: {
               '@type': 'Organization',
-              name: 'Công Ty TNHH Dịch Vụ Bảo Vệ An Thịnh Phát',
+              name: 'Công Ty TNHH Dịch Vụ Bảo Vệ Đệ Nhất Việt Nam',
               sameAs: 'https://vieclambaovedenhat.ga',
               logo: 'https://vieclambaovedenhat.ga/images/logo.png',
             },
@@ -239,10 +241,10 @@ export default {
               address: {
                 '@type': 'PostalAddress',
                 streetAddress:
-                  '38, Tổ 13, Phường Trưng Trắc, Thị Xã Phúc Yên, Phường Trưng Trắc, Phúc Yên, Vĩnh Phúc',
-                addressLocality: 'Vĩnh Phúc',
-                addressRegion: 'Vĩnh Phúc',
-                postalCode: '15906',
+                  'Tầng 3, Số Nhà 13/E, Khu Tập Thể Tổng Cục 2, Tổ Dân Phố 6, Đường Phường Xuân Tảo, Quận Bắc Từ Liêm, Thành Phố Hà Nội (TP.HN)',
+                addressLocality: 'Hà Nội',
+                addressRegion: 'Hà Nội',
+                postalCode: '10000',
                 addressCountry: 'VN',
               },
             },
@@ -251,8 +253,8 @@ export default {
               currency: 'VND',
               value: {
                 '@type': 'QuantitativeValue',
-                minValue: 14.0,
-                maxValue: 16.0,
+                minValue: 15000,
+                maxValue: 18000,
                 unitText: 'HOUR',
               },
             },
