@@ -10,14 +10,19 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Việc làm bảo vệ Công ty Đệ Nhất',
+    title: 'Công ty bảo vệ đệ nhất tuyển dụng nhân viên bảo vệ tại Hà Nội',
     htmlAttrs: {
       lang: 'vi',
     },
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      { hid: 'description', name: 'description', content: '' },
+      {
+        hid: 'description',
+        name: 'description',
+        content:
+          'Tìm việc làm công ty bảo vệ đệ nhất, tuyển dụng nhân viên bảo vệ hà nội, đảm bảo thu nhập từ 6-12tr, bao ăn ở, cmt đi làm ngay. Miễn phí đồng phục...',
+      },
       { name: 'msapplication-TileColor', content: '#ffffff' },
       { name: 'msapplication-TileImage', content: '/ms-icon-144x144.png' },
       { name: 'theme-color', content: '#ffffff' },
@@ -163,7 +168,7 @@ export default {
 
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: ['@nuxtjs/sitemap'],
-  
+
   sitemap: {
     defaults: {
       changefreq: 'daily',

@@ -19,16 +19,15 @@
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 herotext">
             <h2>TUYỂN DỤNG BẢO VỆ</h2>
-            <h1>Công ty Bảo Vệ An Thịnh Phát</h1>
+            <h1>Công Ty TNHH Dịch Vụ Bảo Vệ Đệ Nhất Việt Nam</h1>
             <div class="description">
-              Tuyển dụng bảo vệ An Thịnh Phát cảm ơn bạn đã quan tâm tin tuyển
-              bảo vệ của chúng tôi.
+              Công Ty Bảo Vệ Đệ Nhất Việt Nam Tuyển Dụng cảm ơn bạn đã quan tâm
+              tin tuyển bảo vệ của chúng tôi.
             </div>
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-6 col-lg-offset-3">
-          </div>
+          <div class="col-lg-6 col-lg-offset-3"></div>
         </div>
       </div>
     </div>
