@@ -86,6 +86,18 @@
             việc tại KCN Khai Quang, Vĩnh Yên, KCN Bình Xuyên, Vĩnh Phúc hoặc
             KCN Bá Thiện, Vĩnh Phúc. Khu vực Phúc Yên. KCN Quang Minh, Mê Linh,
             Hà Nội
+            <p>
+              <a
+                href="//www.dmca.com/Protection/Status.aspx?ID=d8b99a86-6566-4511-be08-20a65b0da9fc"
+                title="DMCA.com Protection Status"
+                class="dmca-badge"
+              >
+                <img
+                  src="https://images.dmca.com/Badges/dmca-badge-w150-5x1-09.png?ID=d8b99a86-6566-4511-be08-20a65b0da9fc"
+                  alt="DMCA.com Protection Status"
+              /></a>
+              <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"></script>
+            </p>
           </div>
           <div class="call-mobile">
             <a id="callnowbutton" href="tel:0978333963">097 833 39 63</a
